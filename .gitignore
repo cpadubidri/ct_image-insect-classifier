@@ -6,5 +6,4 @@ data/
 
 *.pth
 *.pt
-models/
 experiments/*/models/*.pth
