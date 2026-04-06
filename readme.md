@@ -68,7 +68,7 @@ Supported losses:
 ## Run Training
 
 ```bash
-python experiments/exp_01/run.py
+python -m experiments.exp_01.run
 ```
 
 ---
