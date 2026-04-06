@@ -1,5 +1,5 @@
-from utils import logger
-from loss import get_loss
+from src.utils import logger
+from src.loss import get_loss
 
 import torch
 from torch.utils.tensorboard import SummaryWriter

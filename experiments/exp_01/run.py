@@ -1,14 +1,7 @@
-import sys
-import os
-import numpy as np
-sys.path.append(os.path.abspath(os.path.join('/home/savvas/SUPER-NAS/USERS/Chirag/PROJECTS/202605-insect-ct', 'src')))
-
-from datafeeder import get_dataloader
-from train import train
-from models import BinaryClassifier
-
-from utils import Configuration
-
+from src.datafeeder import get_dataloader
+from src.train import train
+from src.models import BinaryClassifier
+from src.utils import Configuration
 
 
 if __name__=="__main__":
