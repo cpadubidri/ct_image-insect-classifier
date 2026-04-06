@@ -2,6 +2,9 @@
 */__pycache__/
 data/
 */.vscode/
-*/models/
 */tensorboard/
+
 *.pth
+*.pt
+models/
+experiments/*/models/*.pth
