@@ -1,4 +1,4 @@
-# Insect Binary Classification (PyTorch)
+# Insect Binary Classification
 
 This project implements a **binary image classification pipeline**
 
