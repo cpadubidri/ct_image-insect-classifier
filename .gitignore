@@ -1,0 +1,6 @@
+#fodler
+*/__pycache__/
+data/
+*/.vscode/
+*/models/
+*/tensorboard/
